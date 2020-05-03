@@ -49,6 +49,7 @@ public class ScreenAdapter {
         activityDisplayMetrics.scaledDensity = targetScaledDensity;
         activityDisplayMetrics.densityDpi = targetDensityDpi;
     }
+
     /**-----------------------------
      *dpi	            屏幕密度
      *drawable-ldpi	    0.75
